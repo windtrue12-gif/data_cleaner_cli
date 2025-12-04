@@ -1,0 +1,5 @@
+{
+  "input_path": "data/input.xlsx",
+  "output_path": "data/output.xlsx",
+  "min_age": 30
+}
