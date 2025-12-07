@@ -1,9 +1,0 @@
-2025-11-24 23:11:21.271 | INFO     | __main__:<module>:1 - ファイルにも書き込み開始！
-2025-11-24 23:11:44.417 | INFO     | __main__:<module>:1 - 今日のログ開始！
-2025-11-24 23:12:02.225 | INFO     | __main__:<module>:1 - サイズでローテーションやで！
-2025-11-24 23:13:05.835 | ERROR    | __main__:<module>:4 - ゼロ除算エラー発生！
-Traceback (most recent call last):
-
-> File "<stdin>", line 2, in <module>
-
-ZeroDivisionError: division by zero

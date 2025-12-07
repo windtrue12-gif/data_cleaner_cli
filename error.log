@@ -1,6 +1,0 @@
-2025-11-24 23:13:05.835 | ERROR    | __main__:<module>:4 - ゼロ除算エラー発生！
-Traceback (most recent call last):
-
-> File "<stdin>", line 2, in <module>
-
-ZeroDivisionError: division by zero
